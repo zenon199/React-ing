@@ -1,4 +1,4 @@
-# React Hooks Practice 
+# React Hooks Practice and small Projects
 
 This repository contains a collection of React projects focused on practicing hooks and advanced React concepts. Each project demonstrates different aspects of React development and best practices.
 
@@ -21,45 +21,3 @@ This repository contains a collection of React projects focused on practicing ho
 - `useWindowSize` - Responsive design hook
 - `useAuth` - Authentication hook
 - `useForm` - Form validation hook
-
-
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/react-hooks-practice.git
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Start the development server:
-```bash
-npm start
-```
-
-
-## Learning Objectives
-
-1. **Hooks Fundamentals**
-   - Understanding React's functional components
-   - State management with hooks
-   - Side effects handling
-   - Performance optimization
-
-2. **Advanced Concepts**
-   - Custom hooks development
-   - Context API usage
-   - Error boundaries
-   - Code splitting
-   - Performance optimization techniques
-
-3. **Best Practices**
-   - Component composition
-   - State management patterns
-   - Error handling
-   - Testing strategies
-   - Code organization
-
