@@ -4,6 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+.strikeThrough {
+  text-decoration: line-through;
+}
 
 .logo {
   height: 6em;
